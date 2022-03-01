@@ -1,0 +1,21 @@
+/*Color
+Fonts
+Keyframe animations
+Images*/
+
+h1 {
+    color: #c53535;
+    font-size: 72px;
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+.profile-picture {
+    border-radius: 50%;
+  }
+
+
+element.style {
+    margin: 2px;
+    background:sienna
+}
