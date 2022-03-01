@@ -14,8 +14,14 @@ h1 {
     border-radius: 50%;
   }
 
+div {
+    color:rgb(119, 60, 33);
+    animation-name: change;
+    animation-duration: 8s;
+    animation-iteration-count: 3;
+}
 
-element.style {
-    margin: 2px;
-    background:sienna
+@keyframes change {
+    from {color: sienna;}
+    to {color: aliceblue;}
 }
